@@ -4,7 +4,7 @@ import { Row, Col } from "../Grid"
 
 
 //this saves search results
-const SavedResult = props => {
+function SavedResult(props) {
     return (props.savedBooks.length === 0) ? (
         <div className="card">
             <div className="card-body player">
