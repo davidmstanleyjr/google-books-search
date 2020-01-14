@@ -21,8 +21,8 @@ const SearchResult = props => {
                         <h3>Search Results</h3>
                         {props.books.map(book => {
                             return (
-                                <li className="search-list list-group-item">
-                                    <Row className="SearchResult row" id={book.title + "Card"} key={book._id}>
+                                <li className="search-list list-group-item" key={book._id}>
+                                    <Row className="SearchResult row" id={book.title + "Card"}>
                                         {/* col-3 show image of the book */}
                                         <Col size="2" className="bookImage">
                                             <img src={book.image} alt={book.title} />
