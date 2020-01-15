@@ -13,14 +13,14 @@ Welcome to my Google Books Search React App. This app allows you to search for a
 
 This application uses the following NPM packages:
 
-**1. Express https://www.npmjs.com/package/express**
-**2. If-ENV https://www.npmjs.com/package/if-env**
-**3. Mongoose https://www.npmjs.com/package/mongoose**
-**4. React https://www.npmjs.com/package/react**
-**5. React-Router-DOM https://www.npmjs.com/package/react-router-dom**
-**6. React-Bootstrap https://www.npmjs.com/package/react-bootstrap**
-**7. React-Scripts https://www.npmjs.com/package/react-scripts**
-**8. Axios https://www.npmjs.com/package/axios**
+1. Express https://www.npmjs.com/package/express**
+2. If-ENV https://www.npmjs.com/package/if-env**
+3. Mongoose https://www.npmjs.com/package/mongoose**
+4. React https://www.npmjs.com/package/react**
+5. React-Router-DOM https://www.npmjs.com/package/react-router-dom**
+6. React-Bootstrap https://www.npmjs.com/package/react-bootstrap**
+7. React-Scripts https://www.npmjs.com/package/react-scripts**
+8. Axios https://www.npmjs.com/package/axios**
 
 # Link to the live web application
 
