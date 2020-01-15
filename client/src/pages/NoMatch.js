@@ -1,5 +1,5 @@
 import React from "react";
-import { Col, Row, Container } from "../components/Grid";
+import { Col, Row, Container } from "../components/grid";
 import Jumbotron from "../components/Jumbotron";
 
 //this is for when no match for a book is found

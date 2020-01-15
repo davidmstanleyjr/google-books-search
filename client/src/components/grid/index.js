@@ -1,4 +1,4 @@
-import React from "react";
+import React from "./node_modules/react";
 
 //this exprorts the Container, Row, and Column components from this file
 
