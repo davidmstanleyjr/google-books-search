@@ -4,7 +4,7 @@ import SaveBooks from "./pages/SaveBooks";
 import SearchBooks from "./pages/SearchBooks";
 import NoMatch from "./pages/NoMatch";
 import Nav from "./components/Nav";
-import Footer from "./components/Footer"
+import Footer from "./components/footer"
 import "./App.css"
 
 
