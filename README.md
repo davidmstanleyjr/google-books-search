@@ -25,3 +25,12 @@ This application uses the following NPM packages:
 # Link to the live web application
 
 **https://davids-google-book-search.herokuapp.com/**
+
+# Screenshots
+
+![Screenshot 1](client/public/images/snip1.PNG)
+![Screenshot 2](client/public/images/snip2.PNG)
+![Screenshot 3](client/public/images/snip3.PNG)
+
+
+
